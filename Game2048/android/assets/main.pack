@@ -1,0 +1,117 @@
+
+main.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+board
+  rotate: false
+  xy: 1, 205
+  size: 288, 288
+  orig: 288, 288
+  offset: 0, 0
+  index: -1
+button_normal
+  rotate: false
+  xy: 1, 103
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+button_pressed
+  rotate: false
+  xy: 1, 1
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+1024_image
+  rotate: false
+  xy: 291, 423
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+128_image
+  rotate: false
+  xy: 291, 351
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+16_image
+  rotate: false
+  xy: 363, 423
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+2048_image
+  rotate: false
+  xy: 291, 279
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+256_image
+  rotate: false
+  xy: 363, 351
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+2_image
+  rotate: false
+  xy: 435, 423
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+32_image
+  rotate: false
+  xy: 291, 207
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+4096_image
+  rotate: false
+  xy: 363, 279
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+4_image
+  rotate: false
+  xy: 435, 351
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+512_image
+  rotate: false
+  xy: 363, 207
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+64_image
+  rotate: false
+  xy: 435, 279
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+8_image
+  rotate: false
+  xy: 435, 207
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+blank_tile
+  rotate: false
+  xy: 303, 135
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
